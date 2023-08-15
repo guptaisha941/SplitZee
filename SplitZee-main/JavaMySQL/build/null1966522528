@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.10.8
+Created-By: 16.0.1+9-24 (Oracle Corporation)
+Codebase: C:\Users\Hardika Kumar\OneDrive - JK LAKSHMIPAT UNIVERSITY\S
+ emester-4\Database (CS1106)\SplitZee\JavaMySQL\dist
+Application-Library-Allowable-Codebase: C:\Users\Hardika Kumar\OneDriv
+ e - JK LAKSHMIPAT UNIVERSITY\Semester-4\Database (CS1106)\SplitZee\Ja
+ vaMySQL\dist
+Caller-Allowable-Codebase: C:\Users\Hardika Kumar\OneDrive - JK LAKSHM
+ IPAT UNIVERSITY\Semester-4\Database (CS1106)\SplitZee\JavaMySQL\dist
+Permissions: sandbox
+Application-Name: JavaMySQL
+
